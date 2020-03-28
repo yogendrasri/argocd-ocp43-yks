@@ -3,7 +3,7 @@ global:
   tlsSecretName: gsi-dev-ocp43-clu-751315-7ec5d722a0ab3f463fdc90eeb94dbc70-0000
 
 inventory-management-svc-ocp43-yks:
-  replicaCount: 3
+  replicaCount: 4
   
   ingress:
     enabled: true

@@ -1,5 +1,5 @@
 dependencies:
 - name: inventory-management-svc-43-yks
-  version: 0.0.1
+  version: 0.0.2
   repository: https://artifactory-tools.gsi-dev-ocp43-clu-751315-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.sjc04.containers.appdomain.cloud/artifactory/generic-local/dev1-yks/
               

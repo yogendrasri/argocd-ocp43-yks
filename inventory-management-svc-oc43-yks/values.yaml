@@ -1,11 +1,11 @@
 global:
-  ingressSubdomain: gsi-dev-ocp43-clu-751315-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.sjc04.containers.appdomain.cloud
-  tlsSecretName: gsi-dev-ocp43-clu-751315-7ec5d722a0ab3f463fdc90eeb94dbc70-0000
+  ingressSubdomain: gsi-dev-ocp43-clu-405282-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-east.containers.appdomain.cloud
+  tlsSecretName: gsi-dev-ocp43-clu-405282-7ec5d722a0ab3f463fdc90eeb94dbc70-000
 
 inventory-management-svc-oc43-yks:
   replicaCount: 4
   
   ingress:
     enabled: true
-    tlsSecretName: gsi-dev-ocp43-clu-751315-7ec5d722a0ab3f463fdc90eeb94dbc70-0000
+    tlsSecretName: gsi-dev-ocp43-clu-405282-7ec5d722a0ab3f463fdc90eeb94dbc70-000
 
